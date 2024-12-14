@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/gululu/antlr_test/build",
+  "command": "g++  -I/home/gululu/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/home/gululu/antlr_test/generated_test -I/home/gululu/antlr_test/generated -g -o CMakeFiles/a.dir/main.cpp.o -c /home/gululu/antlr_test/main.cpp",
+  "file": "/home/gululu/antlr_test/main.cpp"
+},
+{
+  "directory": "/home/gululu/antlr_test/build",
+  "command": "g++  -I/home/gululu/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/home/gululu/antlr_test/generated_test -I/home/gululu/antlr_test/generated -g -o CMakeFiles/a.dir/MyCVisitor.cpp.o -c /home/gululu/antlr_test/MyCVisitor.cpp",
+  "file": "/home/gululu/antlr_test/MyCVisitor.cpp"
+},
+{
+  "directory": "/home/gululu/antlr_test/build",
+  "command": "g++  -I/home/gululu/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/home/gululu/antlr_test/generated_test -I/home/gululu/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestBaseListener.cpp.o -c /home/gululu/antlr_test/generated_test/ExprTestBaseListener.cpp",
+  "file": "/home/gululu/antlr_test/generated_test/ExprTestBaseListener.cpp"
+},
+{
+  "directory": "/home/gululu/antlr_test/build",
+  "command": "g++  -I/home/gululu/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/home/gululu/antlr_test/generated_test -I/home/gululu/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestBaseVisitor.cpp.o -c /home/gululu/antlr_test/generated_test/ExprTestBaseVisitor.cpp",
+  "file": "/home/gululu/antlr_test/generated_test/ExprTestBaseVisitor.cpp"
+},
+{
+  "directory": "/home/gululu/antlr_test/build",
+  "command": "g++  -I/home/gululu/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/home/gululu/antlr_test/generated_test -I/home/gululu/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestLexer.cpp.o -c /home/gululu/antlr_test/generated_test/ExprTestLexer.cpp",
+  "file": "/home/gululu/antlr_test/generated_test/ExprTestLexer.cpp"
+},
+{
+  "directory": "/home/gululu/antlr_test/build",
+  "command": "g++  -I/home/gululu/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/home/gululu/antlr_test/generated_test -I/home/gululu/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestListener.cpp.o -c /home/gululu/antlr_test/generated_test/ExprTestListener.cpp",
+  "file": "/home/gululu/antlr_test/generated_test/ExprTestListener.cpp"
+},
+{
+  "directory": "/home/gululu/antlr_test/build",
+  "command": "g++  -I/home/gululu/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/home/gululu/antlr_test/generated_test -I/home/gululu/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestParser.cpp.o -c /home/gululu/antlr_test/generated_test/ExprTestParser.cpp",
+  "file": "/home/gululu/antlr_test/generated_test/ExprTestParser.cpp"
+},
+{
+  "directory": "/home/gululu/antlr_test/build",
+  "command": "g++  -I/home/gululu/antlr_test/third_party/antlr4-cpp-runtime-4.13.2 -I/home/gululu/antlr_test/generated_test -I/home/gululu/antlr_test/generated -g -o CMakeFiles/a.dir/generated_test/ExprTestVisitor.cpp.o -c /home/gululu/antlr_test/generated_test/ExprTestVisitor.cpp",
+  "file": "/home/gululu/antlr_test/generated_test/ExprTestVisitor.cpp"
+}
+]
